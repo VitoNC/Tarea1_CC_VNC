@@ -18,14 +18,17 @@ Clona el repositorio con:
 ```bash
 git clone https://github.com/VitoNC/Tarea1_CC_VNC.git
 ```
+
 ---
 
 ## 📂 Estructura del Proyecto
 
-mi-proyecto-web/
+```bash
+Tarea1_CC_VNC/
 ├── index.html
 ├── README.md
 └── .gitignore
+```
 
 ---
 
