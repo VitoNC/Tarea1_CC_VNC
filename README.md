@@ -14,4 +14,4 @@ Proyecto sencillo en HTML para practicar el uso de **Git y GitHub**.
 ## ⚙️ Instalación
 Clona el repositorio con:
 ```bash
-git clone https://github.com/tu-usuario/mi-proyecto-web.git
+git clone https://github.com/VitoNC/Tarea1_CC_VNC.git
